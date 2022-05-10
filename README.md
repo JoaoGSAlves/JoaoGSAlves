@@ -1,4 +1,4 @@
-### Olá, Eu sou JoaoGSAlves!
+### Olá, Eu sou Joao Gabriel!
 
 - 🔭 Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Atualmente aprendendo Business Intelligence, SQL Server, MySQL, Oracle, T-SQL e PLSQL
