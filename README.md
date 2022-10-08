@@ -1,8 +1,8 @@
 ### Olá, Eu sou Joao Gabriel!
 
 - Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas
-- Atualmente estagiando na área de Desenvolvimento da Jucerja
-- Conhecimentos em HTML5,CSS3,Python,Javascript,Java,SQL Server,Linux,Boostrap,Figma.
+- Estou estagiando na área de Desenvolvimento da Jucerja
+- Possuo Conhecimentos em HTML5,CSS3,Python,Javascript,Java,SQL Server,Linux,Boostrap,Figma.
   
   ## 
   
