@@ -2,7 +2,7 @@
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
+ <tr><td><a href="#"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
 ### :space_invader: &nbsp;About Me
@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently working as a Jr Developer at JUCERJA.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp; Currently at College(SENAC-RJ: Analysis and System Development).\
 &nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Brazil.
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for new knowledges and learning new things.\
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for new knowledges and learning new things.
 
 <p align="center">
   <a href="mailto:joaog.silalves@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
