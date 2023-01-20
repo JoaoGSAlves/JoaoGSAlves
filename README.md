@@ -1,14 +1,15 @@
 ### Olá, Eu sou Joao Gabriel!
 
 - Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas
-- Estou estagiando na área de Desenvolvimento da Jucerja
-- Possuo Conhecimentos em HTML5,CSS3,Python,Javascript,Java,SQL Server,Linux,Boostrap,Figma.
+- Trabalho na área Desenvolvimento da Jucerja
+- Meu objetivo é me tornar um Desenvolvedor Full Stack.
   
   ## 
   
   -- Conhecimentos de Front-End: 
   
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Joao-React" height="30" width="40" "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" >
   <img align="center" alt="Joao-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Joao-Boots" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
