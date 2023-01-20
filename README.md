@@ -1,5 +1,9 @@
 ### Olá, Eu sou João Gabriel!
 
+- Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas
+- Trabalho na área Desenvolvimento da Jucerja
+- Meu objetivo é me tornar um Desenvolvedor Full Stack.
+  
   ##
   
   ---Conhecimentos de Front-End: 
