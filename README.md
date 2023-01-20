@@ -1,21 +1,3 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class JuniorDeveloper:
-
-    def __init__(self):
-        self.name = "João Gabriel"
-        self.role = "Jr. Developer"
-        self.language_spoken = ["pt_BR", "en_US", "es-BR"]
-
-    def say_hi(self):
-        print("Obrigado por passar pelo meu perfil, espero que ache alguns dos meus projetos interessante.")
-
-
-#me = JuniorDeveloper()
-#me.say_hi()
-
 ### Olá, Eu sou João Gabriel!
   
   ##
