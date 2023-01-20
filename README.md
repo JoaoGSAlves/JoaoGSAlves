@@ -1,8 +1,22 @@
 ### Olá, Eu sou João Gabriel!
 
-- Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas
-- Trabalho na área Desenvolvimento da Jucerja
-- Meu objetivo é me tornar um Desenvolvedor Full Stack.
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class Junior_Developer:
+
+    def __init__(self):
+        self.name = "João Gabriel"
+        self.role = "Jr. Developer"
+        self.language_spoken = ["pt_BR", "en_US", "es-BR"]
+
+    def say_hi(self):
+        print("Obrigado por passar pelo meu perfil, espero que ache alguns dos meus projetos interessante.")
+
+
+me = Junior_Developer()
+me.say_hi()
   
   ##
   
