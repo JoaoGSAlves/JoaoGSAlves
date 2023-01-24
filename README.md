@@ -7,11 +7,11 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Jr Developer at [JUCERJA](https://www.jucerja.rj.gov.br) (Board of Trade of the State of Rio de Janeiro)\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Jr Developer at [JUCERJA](https://www.jucerja.rj.gov.br) (Board of Trade of the State of Rio de Janeiro)
 
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp; Currently at College (SENAC-RJ: Analysis and System Development).\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp; Currently at College (SENAC-RJ: Analysis and System Development).
 
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Brazil.\
+&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Brazil.
 
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for new knowledges and learning new things.
 
