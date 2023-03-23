@@ -57,7 +57,7 @@
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statis</b></summary>
+  <summary><b>:gear: &nbsp;GitHub Stats</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoGSAlves&hide_border=true&theme=nightowl" />
