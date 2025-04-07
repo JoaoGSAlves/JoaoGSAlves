@@ -7,7 +7,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Currently working as a Jr Developer at [JUCERJA](https://www.jucerja.rj.gov.br) (Board of Trade of the State of Rio de Janeiro)
+&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Currently working as a Jr Developer at [TECGRAF](https://www.tecgraf.puc-rio.br/) (Tecgraf Institute of Technical-Scientific Software Development)
 
 &nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp; Currently at College (SENAC-RJ: Analysis and System Development).
 
